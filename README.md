@@ -1,4 +1,4 @@
-# PyBer_Analysis
+### PyBer_Analysis
 
 ---
 
@@ -25,7 +25,7 @@ It appears that riders in rural cities pay on average almost $10 more for PyBer 
 
 ---
 
-#Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+# Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
 In order to reduce the disparity between Urban, Suburban and Rural cities, we recomend the following:
 
